@@ -35,13 +35,13 @@ body  {
     margin-right: 0px;
 }
 
-.text h2 {
+.text-h2 {
     margin-bottom: 20px;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
 
-.text p {
+.text-p {
     color: hsl(220, 15%, 55%);
     margin-bottom: 20px;
     font-weight: 400;
